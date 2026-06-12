@@ -1,0 +1,12 @@
+n = int(input())
+a = list(map(int,input().split()))
+mx = a[0]
+mn = a[0]
+for i in range(1, n):
+    if a[i] > mx:
+        mx = a[i]
+    if a[i] < mn:
+        mn = a[i]
+print(mx - mn)
+
+
