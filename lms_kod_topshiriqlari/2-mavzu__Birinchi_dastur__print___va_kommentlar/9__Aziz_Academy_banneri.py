@@ -1,1 +1,0 @@
-print("Aziz Academy\nPython kursi\nBirinchi modul: Kirish")
