@@ -4,29 +4,29 @@
 
 ## 📊 Umumiy progress
 
-`██░░░░░░░░░░░░░░░░░░` **11%**  (20/179 mavzu)
+`██░░░░░░░░░░░░░░░░░░` **12%**  (21/179 mavzu)
 
-- ⭐ Jami ball: **51981**
-- 📤 GitHubga yuborilgan topshiriqlar: **656**
+- ⭐ Jami ball: **52745**
+- 📤 GitHubga yuborilgan topshiriqlar: **657**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 2 — Stringlar va Formatlash** → **Escape belgilar — \n, \t, \\, \"**
+**MODUL 2 — Stringlar va Formatlash** → **Ko'p qatorli stringlar - """...""", docstring**
 
-➡️ Keyingi mavzu: *Ko'p qatorli stringlar — """...""", docstring*
+➡️ Keyingi mavzu: *🛠 Amaliy: Matn tahlili - so'z sanash, harf statistikasi*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Index va slicing ⭐ — s[0], s[1:4], s[::-1]
-- ✅ String metodlari — 1: lower, upper, strip, title
-- ✅ String metodlari — 2: replace, find, count, split, join
-- ✅ in operatori — substring izlash, mavjudlikni tekshirish
-- ✅ f-string ⭐ — zamonaviy formatlash (f"{ism}")
-- ✅ Boshqa formatlash — .format() va % (eski usullar)
-- ✅ Escape belgilar — \n, \t, \\, \"  ← yetgan joyingiz
-- ⬜ Ko'p qatorli stringlar — """...""", docstring
-- ⬜ 🛠 Amaliy: Matn tahlili — so'z sanash, harf statistikasi
+- ✅ Index va slicing ⭐ - s[0], s[1:4], s[::-1]
+- ✅ String metodlari - 1: lower, upper, strip, title
+- ✅ String metodlari - 2: replace, find, count, split, join
+- ✅ in operatori - substring izlash, mavjudlikni tekshirish
+- ✅ f-string ⭐ - zamonaviy formatlash (f"{ism}")
+- ✅ Boshqa formatlash - .format() va % (eski usullar)
+- ✅ Escape belgilar - \n, \t, \\, \"
+- ✅ Ko'p qatorli stringlar - """...""", docstring  ← yetgan joyingiz
+- ⬜ 🛠 Amaliy: Matn tahlili - so'z sanash, harf statistikasi
 - ⬜ 🛠 Mini-loyiha: Login + parol tekshirish (validatsiya)
 
 </details>
@@ -36,7 +36,7 @@
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
 | 1 | 🔸 Asoslar | `█████████░` 87% | 13/15 |
-| 2 | 🔸 Stringlar va Formatlash | `███████░░░` 70% | 7/10 |
+| 2 | 🔸 Stringlar va Formatlash | `████████░░` 80% | 8/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
@@ -58,4 +58,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-09 12:29</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-14 11:56</sub>
